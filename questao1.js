@@ -65,9 +65,9 @@ function contarSituacoes() {
 }
 
 //Testa o programa
-cadastrarAluno("Maria", 20, "Engenharia", 8, 7.5, 9);
-cadastrarAluno("João", 22, "Direito", 5, 6, 5.5);
-cadastrarAluno("Ana", 19, "Medicina", 3, 4, 4.5);
+cadastrarAluno("Ana", 20, "ADS", 7, 8, 9);
+cadastrarAluno("Bruno", 18, "CD", 5, 6, 7);
+cadastrarAluno("Caio", 25, "Computação", 10, 8, 9);
 
 exibirAlunos();
 contarSituacoes();
